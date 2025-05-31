@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Notebook Power Rail 啟動時序
+##  Notebook Power Rail 啟動時序
 
 1. AC / Battery 插入 → EC 上電  
 2. EC 啟動 Standby Rail（3.3V / 5V）  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🆚 Notebook vs Server Power Rail 對比表
+##  Notebook vs Server Power Rail 對比表
 
 | 項目 | Notebook | Server |
 |------|----------|--------|
@@ -30,7 +30,7 @@
 
 ---
 
-## ❗ 常見 Debug 情境
+##  常見 Debug 情境
 
 ### EC Reset / Power 問題
 - Reset 過快 → VRM 尚未穩定，造成無法啟動  
@@ -49,7 +49,7 @@
 
 ---
 
-## 📟 EC Debug Pin 表
+##  EC Debug Pin 表
 
 | Pin | 功能 | 備註 |
 |-----|------|------|
@@ -60,7 +60,7 @@
 
 ---
 
-## 🔊 BIOS Beep Code 對照
+##  BIOS Beep Code 對照
 
 | Beep | 錯誤 | 原因 |
 |------|------|------|
@@ -70,7 +70,7 @@
 
 ---
 
-## 📤 EC UART Log 判讀建議
+##  EC UART Log 判讀建議
 
 - `EC_Init OK` → 初始化成功  
 - `Watchdog Reset` → BIOS 異常  
