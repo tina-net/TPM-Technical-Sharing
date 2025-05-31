@@ -1,4 +1,4 @@
-# 🧠 TPM-Technical-Sharing | 技術筆記總整理
+# 🎯 TPM-Technical-Sharing | 技術筆記總整理
 
 Welcome! This repository is where I consolidate my technical knowledge and self-learning notes as a **Technical Program Manager (TPM)**.  
 Topics span across AI inference, system debugging, deployment workflows, BIOS/EC/Validation, and essential tools like Git and Linux.
@@ -17,7 +17,7 @@ As a TPM bridging hardware and software, I use this space to:
 
 ---
 
-## 📚 Directory Structure | 目錄架構
+## 🎯 Directory Structure | 目錄架構
 
 | 資料夾 | 主題分類 | 說明 |
 |--------|----------|------|
@@ -32,11 +32,11 @@ As a TPM bridging hardware and software, I use this space to:
 
 ## ✨ Highlighted Topics | 精選筆記主題
 
-- 🧩 AI Model Lifecycle & Deployment Pipelines (Triton, ONNX, MLOps)
-- 🧠 TPM 如何介接 Validation / QA / Firmware 團隊
+- 🔧 AI Model Lifecycle & Deployment Pipelines (Triton, ONNX, MLOps)
+- 🔧 TPM 如何介接 Validation / QA / Firmware 團隊
 - 🔧 BIOS/EC Power Sequence Debug Flow
-- 🛠 Git / GitHub / CLI Tools 常用指令與教學
-- 🤖 Transformer 推論流程圖 + Prompt 框架解說
+- 🔧 Git / GitHub / CLI Tools 常用指令與教學
+- 🔧 Transformer 推論流程圖 + Prompt 框架解說
 
 ---
 
@@ -46,7 +46,7 @@ As a TPM bridging hardware and software, I use this space to:
 
 ---
 
-## 🗺️ What's Next
+## 🎯 What's Next
 
 - [x] 建立 AI Infra 筆記區與中英筆記
 - [x] BIOS / EC / Power Flow 圖解彙整
