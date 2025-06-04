@@ -21,7 +21,7 @@ This is a bilingual summary note for the course **"AI Infrastructure and Operati
 ## 📘 Course Overview 課程概覽
 
 - English: This course introduces key concepts in managing the infrastructure that supports AI systems. It includes topics like containerization, resource management, monitoring, and the MLOps lifecycle.
-- 中文：本課程介紹支撐 AI 系統背後的基礎架構管理概念，包括容器化、資源配置、監控，以及 MLOps 模型生命週期。
+- 中文：這堂課程介紹支撐 AI 系統背後的基礎架構管理概念，包括容器化、資源配置、監控，以及 MLOps 模型生命週期。
 
 ---
 
